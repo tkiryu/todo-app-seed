@@ -1,6 +1,6 @@
 # TodoAppSeed
 
-ToDo App Seed for TypeScript Beginner ＆ Step up.
+ToDo App Seed for [TypeScript Beginner ＆ Step up](https://atnd.org/events/93615).
 
 You can create ToDo App using it step by step. See [Session Presentation](http://slides.com/tkiryu/ts-ng-beginner) and and follow the instruction.
 
